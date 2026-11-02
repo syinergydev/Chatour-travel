@@ -13,5 +13,5 @@ Website company profile statis untuk Chatour Travel. Dibuat dengan HTML, CSS, da
 ## Catatan sebelum dipublikasikan
 - Pastikan detail paket, jadwal, harga, fasilitas, legalitas, dan jam operasional telah dikonfirmasi oleh pihak Chatour Travel.
 - Rating 5,0 dan 33 ulasan ditampilkan berdasarkan informasi yang diberikan saat pembuatan konsep; perbarui bila berubah.
-- Dua tautan Google Maps yang diberikan diarahkan sementara ke tautan pertama untuk tombol lokasi. Verifikasi tautan/cabang yang benar dengan pemilik.
+- Website menampilkan dua lokasi kantor berdasarkan informasi Google Maps yang diberikan: Sugio (5,0 dari 33 ulasan) dan Sugihwaras, Deket (4,9 dari 14 ulasan).
 - Website tidak memakai backend atau database. Formulir pemesanan diarahkan ke WhatsApp.
